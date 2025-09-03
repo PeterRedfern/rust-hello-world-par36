@@ -1,0 +1,1 @@
+# rust-hello-world-par36
