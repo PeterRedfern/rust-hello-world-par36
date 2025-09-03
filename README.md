@@ -1,2 +1,2 @@
-# rust-hello-world-par36
-# This repository is for assignment 1 and deals with Rust
+# YWCC307-par36
+# This repository is for assignments in YWCC307 and deals with Rust
